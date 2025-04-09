@@ -4,8 +4,9 @@ public class Main {
         Vehiculo v2 = new Vehiculo("DEF456", "Chevrolet", 2018, 1300);
         Vehiculo v3 = new Vehiculo("GHI789", "Toyota", 2022, 1000);
 
-        v1.mostrarInformacion();
-        v2.mostrarInformacion();
-        v3.mostrarInformacion();
+        VehiculoPrinter printer = new VehiculoPrinter();
+        printer.imprimir(v1);
+        printer.imprimir(v2);
+        printer.imprimir(v3);
     }
 }
