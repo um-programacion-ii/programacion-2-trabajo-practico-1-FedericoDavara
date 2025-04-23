@@ -1,6 +1,27 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/-JQrLgaz)
 # 🧠 Trabajo Práctico: Sistema de Gestión de Vehículos (Java + SOLID + GitHub)
 
+# Alumno: Federico Davara
+
+# Legajo: 59098
+
+# Ejecucion 
+Ejecutar el proyecto en IntelliJ Idea corriendo el programa usando el boton de play dentro del archivo main
+El proyecto ya cuenta con los valores precargados asi que al ejecutarlo demostrara como funciona
+
+#Ejemplo de los resultados devueltos 
+=== LISTA DE VEHÍCULOS ===
+Vehículo: Ford | Patente: ABC123 | Año: 2020 | Carga: 1500.0 kg
+Vehículo: Chevrolet | Patente: DEF456 | Año: 2018 | Carga: 1300.0 kg
+Vehículo: Volvo | Patente: CAM789 | Año: 2015 | Carga: 8000.0 kg | Acoplado: Sí
+Vehículo: Peugeot | Patente: AUT456 | Año: 2021 | Carga: 500.0 kg | Pasajeros: 5
+
+🔍 Buscando por patente 'CAM789'...
+Vehículo: Volvo | Patente: CAM789 | Año: 2015 | Carga: 8000.0 kg | Acoplado: Sí
+
+Process finished with exit code 0
+
+
 ## 📌 Objetivo General
 
 Desarrollar una aplicación en Java para gestionar vehículos de una empresa, aplicando los principios de programación orientada a objetos y los **primeros tres principios SOLID**:  
